@@ -18,3 +18,6 @@ A otimização e automação nos cálculos necessários para a tomada de decisã
 
 <img width="738" height="978" alt="image" src="https://github.com/user-attachments/assets/261027b1-468c-46e3-9bea-2b9eb62d4dce" />
 
+<img width="729" height="977" alt="image" src="https://github.com/user-attachments/assets/ad75d3bd-20b9-4b19-bfe1-6e2510cd391e" />
+
+
